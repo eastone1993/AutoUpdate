@@ -1,4 +1,4 @@
-;v.1
+;v.2
 #Persistent
 #SingleInstance, force 
 #include %A_ScriptDir%\library\Zip-Unzip.ahk ;library for zip functions
